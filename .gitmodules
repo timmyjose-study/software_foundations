@@ -1,0 +1,12 @@
+[submodule "logical_foundations"]
+	path = logical_foundations
+	url = ./
+[submodule "programming_language_foundations"]
+	path = programming_language_foundations
+	url = ./programming_language_foundations/
+[submodule "verified_functional_algorithms"]
+	path = verified_functional_algorithms
+	url = ./verified_functional_algorithms/
+[submodule "quickchick_property_based_testing_in_coq"]
+	path = quickchick_property_based_testing_in_coq
+	url = ./quickchick_property_based_testing_in_coq/
